@@ -3,11 +3,16 @@
 ![banner](resources/bannerfoto1.png)
 
 
-Soy un **Desarrollador Full-Stack** en desarrollo con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud**, y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
+Software Developer en desarrollo con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud** y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
 
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript
+- **Gestión de Versiones**: Git, GitHub
+- **Cloud**: Microsoft Azure
+  
 ---
 
-<!--
 ## 🚀 Proyectos Destacados
 
 ### [Asistente Virtual para Empleados](https://github.com/PabloSanchez87/Web_scrapping_chatbot)
@@ -21,19 +26,8 @@ Soy un **Desarrollador Full-Stack** en desarrollo con más de 2 años de experie
 ### [Chatbot Personalizado](https://github.com/PabloSanchez87/Web_scrapping_chatbot)
 - **Tecnologías**: Streamlit, Ollama, Groq, Lang-chain
 - **Descripción**: Implementé un chatbot personalizado que proporciona respuestas automáticas basadas en un conjunto específico de datos, mejorando la eficiencia en la atención al cliente.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript
-- **Frameworks y Herramientas**: Django, Streamlit, Tkinter, OpenAI API
-- **Contenerización**: Conocimientos básicos de Docker
-- **Gestión de Versiones**: Git, GitHub
-- **Cloud**: Microsoft Azure
-
----
-
+  
+<!--
 ## 📚 Educación & Certificaciones
 
 - **FullStack & Blockchain Developer** - Academia Conquer X (2023 - Presente)
