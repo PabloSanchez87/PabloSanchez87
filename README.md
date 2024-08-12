@@ -2,6 +2,10 @@
 
 ![banner](resources/bannerfoto1.png)
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=pablosanchez87&color=brightgreen" alt="contador_de_visitas" style="display:none;" />
+</p>
+
 Soy un **Desarrollador Full-Stack** en desarrollo con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud**, y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
 
 ---
