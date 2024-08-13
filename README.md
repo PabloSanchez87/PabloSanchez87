@@ -10,7 +10,7 @@ Software Developer con más de 2 años de experiencia en Python, especializado e
 - **💻Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
 - **🔧Gestión de Versiones**: Git, GitHub
 - **☁️ Cloud**: Microsoft Azure
-- **🧠 IA**: OpenAI - GPT, Ollama, LLM, Lang-Chain
+- **🧠 IA**: OpenAI - GPT, Ollama, LLM, LangChain
   
 ---
 
@@ -25,7 +25,7 @@ Software Developer con más de 2 años de experiencia en Python, especializado e
 - **Descripción**: Herramienta interactiva para la generación automática de facturas personalizadas en formato PDF, diseñada para la creación de facturas esporádicas de manera eficiente.
 
 ### [Chatbot Personalizado](https://github.com/PabloSanchez87/Web_scrapping_chatbot)
-- **Tecnologías**: Streamlit, Ollama, Groq, Lang-chain
+- **Tecnologías**: Streamlit, Ollama, Groq, LangChain
 - **Descripción**: Implementé un chatbot personalizado que proporciona respuestas automáticas basadas en un conjunto específico de datos, mejorando la eficiencia en la atención al cliente.
   
 <!--
