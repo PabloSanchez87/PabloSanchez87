@@ -3,13 +3,14 @@
 ![banner](resources/bannerfoto1.png)
 
 
-Software Developer en desarrollo con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud** y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
+Software Developer con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud** y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript
-- **Gestión de Versiones**: Git, GitHub
-- **Cloud**: Microsoft Azure
+- **💻Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
+- **🔧Gestión de Versiones**: Git, GitHub
+- **☁️ Cloud**: Microsoft Azure
+- **🧠 IA**: OpenAI - GPT, Ollama, LLM, Lang-Chain
   
 ---
 
@@ -43,9 +44,9 @@ Software Developer en desarrollo con más de 2 años de experiencia en Python, e
 -->
 ## 🌐 Conéctate Conmigo
 
-- **GitHub**: [PabloSanchez87](https://github.com/PabloSanchez87)
-- **LinkedIn**: [Pablo Sánchez Torres](https://linkedin.com/in/pablosancheztorres)
-- **Email**: sancheztorrespablo@gmail.com
+- **💻 GitHub**: [PabloSanchez87](https://github.com/PabloSanchez87)
+- **💼 LinkedIn**: [Pablo Sánchez Torres](https://linkedin.com/in/pablosancheztorres)
+- **✉️ Email**: sancheztorrespablo@gmail.com
 
 Estoy emocionado por las oportunidades que se presenten en el campo del desarrollo de software y aplicaciones. ¡No dudes en ponerte en contacto conmigo si tienes un proyecto interesante en mente o si buscas colaboración en alguna iniciativa tecnológica!
 
