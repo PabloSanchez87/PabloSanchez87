@@ -1,7 +1,7 @@
 #  🤝  Transformando ideas en código
 
 
-![banner](resources/bannerfoto1.png)
+![banner](resources/bannerfoto_recorte.png)
 
 
 Software Developer con más de 2 años de experiencia en Python, especializado en **Back-end**, **Cloud** y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
