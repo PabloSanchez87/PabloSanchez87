@@ -8,8 +8,8 @@ Software Developer con más de 2 años de experiencia en Python, especializado e
 
 ## 🛠️ Habilidades Técnicas
 
-- **💻Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
-- **🔧Gestión de Versiones**: Git, GitHub
+- **💻 Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
+- **🔧 Gestión de Versiones**: Git, GitHub
 - **☁️ Cloud**: Microsoft Azure
 - **🧠 IA**: OpenAI - GPT, Ollama, LLM, LangChain
   
