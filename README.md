@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Pablo Sánchez Torres
+#  🤝  Transformando ideas en código
+
 
 ![banner](resources/bannerfoto1.png)
 
