@@ -10,11 +10,11 @@ Software Developer con más de 2 años de experiencia en Python, especializado e
 
 - **💻 Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
 - **🔧 Gestión de Versiones**: Git, GitHub
-- **☁️ Cloud**: Microsoft Azure
+- **☁️ Cloud**: Microsoft Azure, AWS
 - **🧠 IA**: OpenAI - GPT, Ollama, LLM, LangChain
   
 ---
-
+<!--
 ## 🚀 Proyectos Destacados
 
 ### [Asistente Virtual para Empleados](https://github.com/PabloSanchez87/Web_scrapping_chatbot)
