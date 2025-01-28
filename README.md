@@ -4,14 +4,15 @@
 ![banner](resources/bannerfoto_recorte.png)
 
 
-Software Developer con más de 2 años de experiencia en Python, especializado en **Data Science**, **Back-end**, **Cloud** y **automatización**. Mi pasión por la tecnología me motiva a aprender constantemente nuevas herramientas y adaptarme a entornos de trabajo desafiantes. Tras una sólida trayectoria en la gestión de un negocio familiar, he decidido redirigir nuevamente mi carrera hacia el desarrollo de software, un campo que siempre me ha apasionado.
+Desarrollador de Software con 2+ años de experiencia en Python, especializado en Data Science, Machine Learning y Cloud Computing. Apasionado por la automatización y la resolución de problemas, con experiencia en herramientas como AWS, Azure, SQL y Django. Motivado por seguir creciendo con nuevas tecnologías para adaptarme rápidamente a entornos de trabajo exigentes.
 
 ## 🛠️ Habilidades Técnicas
 
 - **💻 Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
 - **🔧 Gestión de Versiones**: Git, GitHub
-- **☁️ Cloud**: Microsoft Azure, AWS
-- **🧠 IA**: OpenAI - GPT, Ollama, LLM, LangChain
+- **☁️ Cloud**: Microsoft Azure, AWS, GCP
+- **🧠 IA**: OpenAI - Ollama, LLM, LangChain, OpenAI API
+- **📊 Data Science**: Pandas, Numpy, Scikit-Learn, TensorFlow, PyTorch 
   
 ---
 <!--
