@@ -3,16 +3,17 @@
 
 ![banner](resources/bannerfoto_recorte.png)
 
+AI Developer especializado en diseñar e implementar soluciones de inteligencia artificial end-to-end. Actualmente construyo sistemas RAG, chatbots y agentes de generación automática de contenido para plataformas e-learning, orquestando múltiples LLMs y gestionando infraestructura cloud en producción.
 
-Desarrollador de software con enfoque en **Data Science** y **Machine Learning**. Me he especializado en **Python**, lo que me permite adaptarme con soltura al ecosistema de herramientas para el análisis de datos, la automatización de procesos y el desarrollo de soluciones en la nube. He desarrollado proyectos diversos en ciencia de datos, combinando modelos predictivos con herramientas interactivas y entornos cloud. Me interesa construir soluciones útiles, mantenerme al día con nuevas tecnologías y aportar en equipos donde se valore la curiosidad, el pensamiento crítico, la colaboración y el aprendizaje continuo.
+Mi background incluye 11 años dirigiendo mi propia empresa, lo que me aporta una visión pragmática: entiendo que la tecnología debe resolver problemas reales de negocio. Me motiva construir soluciones útiles, mantenerme al día con nuevas tecnologías y aportar en equipos donde se valore la curiosidad, el pensamiento crítico y el aprendizaje continuo.
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Tecnológico
 
-- **📊 Data Science**: Pandas, Numpy, Scikit-Learn, TensorFlow, Keras, PyTorch 
-- **🧠 IA**: OpenAI - Ollama, LLM, LangChain, OpenAI API
-- **💻 Lenguajes de Programación**: Python, Java, SQL, HTML, CSS, JavaScript, Kotlin
-- **🔧 Gestión de Versiones**: Git, GitHub
-- **☁️ Cloud**: Microsoft Azure, AWS, GCP
+- **🧠 IA & LLMs**: RAG Systems, LangChain, OpenAI API, Anthropic API, Gemini, Ollama, pgvector, Qdrant
+- **🐍 Backend**: Python, FastAPI, PostgreSQL, Redis
+- **☁️ Cloud & DevOps**: AWS (Lightsail), Docker, GitHub Actions, CI/CD, Nginx, Apache
+- **📊 Data**: Pandas, Numpy, Scikit-Learn, embeddings, procesamiento de documentos, TensorFlow, PyTorch 
+- **🔧 Otros**: Git, SQL, Nuxt, Typescript, Moodle/IOMAD, Streamlit
   
 ---
 <!--
@@ -49,8 +50,6 @@ Desarrollador de software con enfoque en **Data Science** y **Machine Learning**
 - **💻 GitHub**: [PabloSanchez87](https://github.com/PabloSanchez87)
 - **💼 LinkedIn**: [Pablo Sánchez Torres](https://linkedin.com/in/pablosancheztorres)
 - **✉️ Email**: sancheztorrespablo@gmail.com
-
-Estoy emocionado por las oportunidades que se presenten en el campo del desarrollo de software y aplicaciones. ¡No dudes en ponerte en contacto conmigo si tienes un proyecto interesante en mente o si buscas colaboración en alguna iniciativa tecnológica!
 
 
 <p align="left">
