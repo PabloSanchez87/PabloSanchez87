@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="#-español"><img src="https://img.shields.io/badge/🇪🇸_Español-D90429?style=for-the-badge" alt="Español"/></a>
+  <a href="#-español"><img src="https://img.shields.io/badge/Español-D90429?style=for-the-badge" alt="Español"/></a>
   &nbsp;
-  <a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-1D3557?style=for-the-badge" alt="English"/></a>
+  <a href="#-english"><img src="https://img.shields.io/badge/English-1D3557?style=for-the-badge" alt="English"/></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 <!-- ====================== ESPAÑOL ====================== -->
 <a id="-español"></a>
 <details open>
-<summary><h2>🇪🇸 Español</h2></summary>
+<summary><h2>Español</h2></summary>
 
 <br/>
 
@@ -124,7 +124,7 @@ Antes de la tecnología pasé **más de 11 años dirigiendo mi propia empresa**,
 <!-- ====================== ENGLISH ====================== -->
 <a id="-english"></a>
 <details>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><h2>English</h2></summary>
 
 <br/>
 
